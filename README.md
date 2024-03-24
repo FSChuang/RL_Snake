@@ -1,7 +1,7 @@
 # <p align = "center"> Snake Game using Q-Learning </p>
 ## Table of contents
-- [Structure] (#structure)
-- [Short Demo Video] (#short-demo)
+- [Structure](#structure)
+- [Short Demo Video](#short-demo)
 
 ## <a name = "structure"> Structure
 
